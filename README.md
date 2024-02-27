@@ -50,12 +50,14 @@ After removing Non Beneficial fields: 'EIN', 'NAME', 'STATUS', 'SPECIAL_CONSIDER
 Model performance improvement is observed on each attept to train: 
 
 First Attempt Results:  Loss: 0.5508238077163696, Accuracy: 0.7320116758346558
+
 Second Attempt Results: Loss: 0.5480531454086304, Accuracy: 0.7327113747596741
+
 Third Attempt Results:  Loss: 0.5592454671859741, Accuracy: 0.7330612540245056
 
 From Second Attept to Third Attepmt there is no significant improvement in model performance i.e. with non benefical categorical variables removed from consideration. Model is optimally trained.
 
-#Summary: 
+# Summary: 
 
 Max training loss obseved is more 0.55. Neural network model training loss should be close to 0. By adjusting "Ratio of training to test data", "Batch Size" or Fursther "Noise Reduction" may help improve model performance. 
 
