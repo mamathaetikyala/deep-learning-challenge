@@ -59,6 +59,6 @@ From Second Attept to Third Attepmt there is no significant improvement in model
 
 # Summary: 
 
-Max training loss obseved is more 0.55. Neural network model training loss should be close to 0. By adjusting "Ratio of training to test data", "Batch Size" or Further "Noise Reduction" may help improve model performance. 
+Max training loss obseved is more 0.55. Neural network model training loss should be close to 0. By adjusting "Ratio of training to test data", "Batch Size" or Further "Noise Reduction" may help improve model performance. Rather than using Straight input parameters, sin/ x squared function for imputs may fursther improve accuracy of prediction.
 
 
